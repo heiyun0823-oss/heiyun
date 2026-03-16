@@ -1,9 +1,0 @@
-2026/02/09 01:57:37 [emerg] 13372#16436: BIO_new_file("D:\develop
-ginx-project
-ginx-1.15.5\cert\api.openai.com.crt") failed (SSL: error:0200107B:system library:fopen:Unknown error:fopen('D:\develop
-ginx-project
-ginx-1.15.5\cert\api.openai.com.crt','r') error:2006D002:BIO routines:BIO_new_file:system lib)
-2026/02/09 17:58:36 [emerg] 25224#14412: "server" directive is not allowed here in D:\develop\nginx-project\nginx-1.15.5/conf/nginx.conf:1
-2026/02/09 17:59:15 [emerg] 1792#5028: "server" directive is not allowed here in D:\develop\nginx-project\nginx-1.15.5/conf/nginx.conf:1
-2026/02/09 20:05:18 [notice] 18824#4188: signal process started
-2026/02/09 20:20:01 [notice] 22012#21444: signal process started
